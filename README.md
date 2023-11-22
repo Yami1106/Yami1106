@@ -9,7 +9,7 @@
 
 📫 How to reach me ashish11062003@gmail.com
 
-[![Languages and tools known](https://skillicons.dev/icons?i=c,c++,python,arduino,raspberrypi,git,figma,js,html,css,react,nodejs,linux,mysql&theme=light)](https://skillicons.dev)
+[![Languages and tools known](https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,git,github,figma,js,html,css,react,nodejs,linux,mysql,sqlite,vscode,autocad,)](https://skillicons.dev)
 
 <!---
 Yami1106/Yami1106 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

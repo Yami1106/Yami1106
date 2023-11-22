@@ -24,7 +24,7 @@
 
 
 
-Languages and Skills :
+<h3 align="left">Languages and Tools:</h3>
 
 [![Skills](https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,git,github,figma,js,html,css,react,nodejs,linux,mysql,sqlite,vscode,autocad,)](https://skillicons.dev)
 

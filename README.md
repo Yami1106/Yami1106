@@ -30,7 +30,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![Skills](https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,git,github,figma,js,html,css,react,nodejs,linux,mysql,sqlite,vscode,autocad,RviZ,ROS2)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,git,github,figma,js,html,css,react,nodejs,linux,mysql,sqlite,vscode,autocad,ros)](https://skillicons.dev)
 
 
 <br><br>

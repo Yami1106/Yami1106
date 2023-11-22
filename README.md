@@ -6,6 +6,7 @@
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Yami1106&theme=onedark&row=1" />
 </p>
 
+<h3>A Computer Science enthusiast currently pursuing B.Tech at SRMIST, Chennai. My academic journey has laid a robust foundation in C, C++, Python, and more. I thrive on innovation and problem-solving, with hands-on experience in projects involving Raspberry Pi, UI-UX design, and ROS.</h3>
 🔭 I’m currently working on building skills.
 
 🌱 I’m currently learning Linux Tools,ROS and embedded systems

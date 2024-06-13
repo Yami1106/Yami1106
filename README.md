@@ -30,7 +30,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![Skills](https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,git,github,figma,js,html,css,react,nodejs,linux,mysql,sqlite,vscode,autocad,ros)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,git,github,figma,js,html,css,react,nodejs,linux,mysql,sqlite,vscode,autocad,ros,ubuntu,redhat,sklearn,tensorflow,docker,anaconda,jenkins,kubernetes,bash,aws)](https://skillicons.dev)
 
 
 <h3 align="left">Coding Platforms I Use for Practice:</h3>

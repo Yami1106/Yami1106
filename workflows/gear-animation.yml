@@ -1,0 +1,25 @@
+name: Update Gear Animation
+
+on:
+  schedule:
+    - cron: "0 * * * *" # Runs every hour
+  workflow_dispatch: # Manual trigger option
+
+jobs:
+  update-animation:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update SVG file timestamp
+        run: |
+          echo "<!-- Last updated: $(date) -->" >> assets/spinning-gear.svg
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/spinning-gear.svg
+          git commit -m "Updated gear animation timestamp"
+          git push

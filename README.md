@@ -70,4 +70,18 @@
 
 ---
 
+
+
+<h2 align="center">⚙️ Gear Animation</h2>
+
+<p align="center">
+  <img src="./assets/spinning-gear.svg" alt="Spinning Gear Animation" width="200" />
+</p>
+
+<p align="center">
+  <em>Dynamic gear animation powered by GitHub Actions</em>
+</p>
+
+---
+
 <p align="center">✨ "Stay curious, keep learning, and never stop building." ✨</p>

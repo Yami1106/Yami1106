@@ -70,16 +70,12 @@
 
 ---
 
-
-
-<h2 align="center">⚙️ Gear Animation</h2>
-
 <p align="center">
   <img src="./assets/spinning-gear.svg" alt="Spinning Gear Animation" width="200" />
 </p>
 
 <p align="center">
-  <em>Dynamic gear animation powered by GitHub Actions</em>
+  <em>This gear animation dynamically adjusts based on the total number of commits across all repositories.</em>
 </p>
 
 ---

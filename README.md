@@ -68,12 +68,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yami1106&theme=github-compact" alt="Contribution Graph" />
 </p>
 
----
+<!-- ---
 
 <p align="center">
   <img src="./assets/animated-circuit.svg" alt="Spinning Gear Animation" width="200" />
 </p>
 
----
+--- -->
 
 <p align="center">✨ "Stay curious, keep learning, and never stop building." ✨</p>

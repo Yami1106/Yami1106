@@ -71,11 +71,7 @@
 ---
 
 <p align="center">
-  <img src="./assets/spinning-gear.svg" alt="Spinning Gear Animation" width="200" />
-</p>
-
-<p align="center">
-  <em>This gear animation dynamically adjusts based on the total number of commits across all repositories.</em>
+  <img src="./assets/animated-circuit.svg" alt="Spinning Gear Animation" width="200" />
 </p>
 
 ---

@@ -68,9 +68,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Yami1106&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Yami1106&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yami1106&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yami1106&theme=tokyonight&layout=compact&langs_count=10&custom_title=Most%20Used%20Languages%20%F0%9F%94%A7" width="48%" alt="Top Languages" />
-</p>
 
 

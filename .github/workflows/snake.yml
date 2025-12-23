@@ -12,7 +12,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake
+      - uses: actions/checkout@v4
+
+      - name: Generate snake animation
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Yami1106

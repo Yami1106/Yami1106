@@ -64,27 +64,57 @@
 
 <hr/>
 
-<h2 align="center">📈 GitHub Activity</h2>
+<h2 align="center">📊 Developer Snapshot</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yami1106&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yami1106&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+  <img src="https://img.shields.io/badge/Primary%20Stack-ROS%20%7C%20C%2B%2B%20%7C%20Python-3b82f6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Autonomy%20%26%20Robotics-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-Research%20%7C%20Systems%20%7C%20AI-f97316?style=for-the-badge" />
 </p>
-
-<hr/>
-
-<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Yami1106/Yami1106/output/github-contribution-grid-snake-dark.svg"/>
-    <img src="https://raw.githubusercontent.com/Yami1106/Yami1106/output/github-contribution-grid-snake.svg"/>
-  </picture>
+  <img src="https://img.shields.io/badge/ROS2-Navigation%20%7C%20Planning-0A0FF9?style=flat-square&logo=ros" />
+  <img src="https://img.shields.io/badge/Linux-Systems%20Development-black?style=flat-square&logo=linux" />
+  <img src="https://img.shields.io/badge/Docker-Deployment-blue?style=flat-square&logo=docker" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-YOLO%20%7C%20CV-green?style=flat-square" />
 </p>
-
-<hr/>
 
 <p align="center">
-✨ <i>"Robots aren’t just machines — they’re the future we’re building."</i> ✨
+  <sub><i>Hands-on focus on autonomy pipelines: perception → planning → control</i></sub>
 </p>
+
+<h2 align="center">🧠 Current Focus Areas</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🤖 Autonomy</h3>
+      <p>
+        SLAM<br/>
+        Path Planning<br/>
+        Motion Planning
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h3>👁️ Perception</h3>
+      <p>
+        Computer Vision<br/>
+        YOLO / Detection<br/>
+        Sensor Fusion
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h3>⚙️ Systems</h3>
+      <p>
+        ROS2<br/>
+        Linux<br/>
+        Docker
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub><i>Focused on building robust, deployable robotic systems — not just demos</i></sub>
+</p>
+

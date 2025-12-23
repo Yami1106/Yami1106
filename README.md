@@ -23,9 +23,9 @@
 
 <br/>
 
-<!-- Replaced trophies with stable, better-looking highlights -->
 <hr/>
 
+<!-- Highlights (stable replacement for trophies) -->
 <h2 align="center">✨ Highlights</h2>
 
 <p align="center">
@@ -69,19 +69,19 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/ashish-sukumar">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5.svg?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:asukumar@wpi.edu">
-    <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/Yami1106?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-Explore-000000?logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Projects-Explore-000000?logo=github&logoColor=white" alt="Projects" />
   </a>
   &nbsp;
   <a href="https://github.com/Yami1106/issues/new?title=Collaboration%20Idea&body=Hi%20Ashish%2C%20I%27d%20like%20to%20collaborate%20on...">
-    <img src="https://img.shields.io/badge/Collaborate-Start%20a%20chat-2ea44f?logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Collaborate-Start%20a%20chat-2ea44f?logo=github&logoColor=white" alt="Collaborate" />
   </a>
 </p>
 
@@ -89,14 +89,14 @@
 
 <h2 align="center">🌟 About Me</h2>
 
-- 🎓 **M.S. Robotics Engineering** @ Worcester Polytechnic Institute (**2025–**)  
-- 🎓 **B.Tech, Computer Science & Engineering** @ SRMIST (**2021–2025**) | **CGPA: 9.54**  
-- 🔭 **Current focus:** Autonomous robots, SLAM, Path Planning, AI-driven safety systems  
-- 🤝 **Looking to collaborate on:** Robotics, AI/ML, Computer Vision, IoT, Autonomous Systems  
-- 📝 **Publications:**  
-  - **Fire Detection & Risk Prediction** — *Published in IJERCSE*  
-  - **Fire Aware Smart-Bot with AI Responsive System** — *Accepted at ICIoT 2025*  
-- 💡 **Fun fact:** I enjoy turning complex robotics problems into real-world prototypes  
+- 🎓 <b>M.S. Robotics Engineering</b> @ Worcester Polytechnic Institute (<b>2025–</b>)  
+- 🎓 <b>B.Tech, Computer Science & Engineering</b> @ SRMIST (<b>2021–2025</b>) | <b>CGPA: 9.54</b>  
+- 🔭 <b>Current focus:</b> Autonomous robots, SLAM, Path Planning, AI-driven safety systems  
+- 🤝 <b>Looking to collaborate on:</b> Robotics, AI/ML, Computer Vision, IoT, Autonomous Systems  
+- 📝 <b>Publications:</b>  
+  - <b>Fire Detection & Risk Prediction</b> — <i>Published in IJERCSE</i>  
+  - <b>Fire Aware Smart-Bot with AI Responsive System</b> — <i>Accepted at ICIoT 2025</i>  
+- 💡 <b>Fun fact:</b> I enjoy turning complex robotics problems into real-world prototypes  
 
 <hr/>
 
@@ -109,10 +109,10 @@
 <details>
   <summary><b>🧠 Skill Snapshot (click to expand)</b></summary>
 
-- **Robotics:** ROS/ROS2, Gazebo, SLAM, Path Planning, Motion Planning  
-- **Hardware:** Arduino (Uno, Nano, Nano 33 BLE Sense Rev2), ESP32/ESP8266, Raspberry Pi, Sensors (Gas, PIR, IMU, APDS-9960, Proximity, DHT, IR, Ultrasonic, RFID), BLE modules, DC/N20 motors  
-- **Software/Tools:** C/C++, Python, React, Tableau, SQL, Git, Docker, Kubernetes  
-- **AI/ML:** TensorFlow, Scikit-learn, Neural Networks, Computer Vision  
+- <b>Robotics:</b> ROS/ROS2, Gazebo, SLAM, Path Planning, Motion Planning  
+- <b>Hardware:</b> Arduino (Uno, Nano, Nano 33 BLE Sense Rev2), ESP32/ESP8266, Raspberry Pi, Sensors (Gas, PIR, IMU, APDS-9960, Proximity, DHT, IR, Ultrasonic, RFID), BLE modules, DC/N20 motors  
+- <b>Software/Tools:</b> C/C++, Python, React, Tableau, SQL, Git, Docker, Kubernetes  
+- <b>AI/ML:</b> TensorFlow, Scikit-learn, Neural Networks, Computer Vision  
 
 </details>
 
@@ -123,15 +123,15 @@
 <details>
   <summary><b>🤖 Fire Aware Smart-Bot (ICIoT 2025)</b></summary>
 
-- Autonomous rescue robot with **YOLO object detection** + sensor-based navigation  
-- Focus: **robust detection + safe navigation** in dynamic environments  
+- Autonomous rescue robot with <b>YOLO object detection</b> + sensor-based navigation  
+- Focus: <b>robust detection + safe navigation</b> in dynamic environments  
 
 </details>
 
 <details>
   <summary><b>🔥 Fire Detection & Risk Prediction (IJERCSE)</b></summary>
 
-- Neural network-based IoT system for **real-time safety prediction**  
+- Neural network-based IoT system for <b>real-time safety prediction</b>  
 - Sensor fusion + ML for early warning and risk scoring  
 
 </details>
@@ -139,7 +139,7 @@
 <details>
   <summary><b>🏠 Smart Home Automation</b></summary>
 
-- IoT platform with **ESP32 + Raspberry Pi**  
+- IoT platform with <b>ESP32 + Raspberry Pi</b>  
 - Sensor-driven monitoring & control with dashboards + alerts  
 
 </details>
@@ -158,7 +158,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
-  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank" />
+  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
 </p>
 
@@ -166,21 +166,30 @@
 
 <h2 align="center">📈 Activity</h2>
 
+<!-- More stable stats combo (avoids frequent broken activity-graph renders) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yami1106&theme=github-compact" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yami1106&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Yami1106&theme=blue-green&hide_border=false" height="160" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yami1106&theme=blue-green&hide_border=false&layout=compact" height="160" alt="Top Languages" />
 </p>
 
 <hr/>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
+<h2 align="center">🐍 Contribution Snake</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yami1106&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" height="160"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Yami1106&theme=blue-green&hide_border=false" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yami1106&theme=blue-green&hide_border=false&layout=compact" height="160"/>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Yami1106/Yami1106/output/github-contribution-grid-snake-dark.svg"
+    />
+    <img
+      alt="github contribution snake"
+      src="https://raw.githubusercontent.com/Yami1106/Yami1106/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
 
 <hr/>
@@ -188,9 +197,3 @@
 <p align="center">
   ✨ <i>"Robots aren’t just machines — they’re the future we’re building, one project at a time."</i> ✨
 </p>
-
-<!-- Optional: Add a snake animation later (requires GitHub Action)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Yami1106/Yami1106/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
--->

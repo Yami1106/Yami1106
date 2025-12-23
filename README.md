@@ -16,7 +16,7 @@
 <!-- Typing line -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=880&lines=Building+intelligent+systems+that+blend+software+%2B+hardware;Robotics+%7C+SLAM+%7C+Path+Planning+%7C+Computer+Vision;Always+open+to+collaborations+%E2%9C%A8"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=880&lines=Building+intelligent+systems+that+blend+software+%2B+hardware;Robotics+%7C+Path+Planning+%7C+Computer+Vision;Always+open+to+collaborations+%E2%9C%A8"
     alt="Typing SVG"
   />
 </p>
@@ -165,15 +165,25 @@
 <hr/>
 
 <h2 align="center">📈 Activity</h2>
-
-<!-- More stable stats combo (avoids frequent broken activity-graph renders) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yami1106&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Yami1106&theme=blue-green&hide_border=false" height="160" alt="GitHub Streak" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Yami1106&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400&v=1"
+    height="160"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=Yami1106&theme=github-dark&hide_border=true&v=1"
+    height="160"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yami1106&theme=blue-green&hide_border=false&layout=compact" height="160" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yami1106&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400&v=1"
+    height="160"
+    alt="Top Languages"
+  />
 </p>
 
 <hr/>

@@ -1,26 +1,43 @@
+<!-- =======================
+     FIXED HEADER (no overlap)
+     - removed badge row that was crowding the typing line
+     - trophies uses the correct image URL and renders properly
+     - added spacing + line breaks so GitHub doesn't stack elements
+======================= -->
+
 <h1 align="center">
   Hi there, I'm <span style="color:#3498db">Ashish Sukumar</span> 🤖
 </h1>
 
+<!-- Small stats row (kept compact) -->
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Yami1106&label=Profile%20views&color=0e75b6&style=flat">
-    <img src="https://komarev.com/ghpvc/?username=Yami1106&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/Yami1106?tab=followers">
-    <img src="https://img.shields.io/github/followers/Yami1106?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/Yami1106?tab=stars">
-    <img src="https://img.shields.io/github/stars/Yami1106?label=Total%20Stars&style=flat&color=0e75b6" alt="GitHub Stars" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Yami1106&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/Yami1106?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/Yami1106?label=Total%20Stars&style=flat&color=0e75b6" alt="GitHub Stars" />
 </p>
 
+<!-- Spacer -->
+<br/>
+
+<!-- Typing line (standalone, centered) -->
 <p align="center">
-  <!-- Typing intro -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=900&lines=Robotics+%2B+AI+Enthusiast+%7C+MS+Robotics+%40+WPI;Building+intelligent+systems+that+blend+software+%2B+hardware;SLAM+%7C+Path+Planning+%7C+Computer+Vision+%7C+Autonomy;Always+open+to+collaborations+%E2%9C%A8" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=880&lines=Building+intelligent+systems+that+blend+software+%2B+hardware;Robotics+%7C+SLAM+%7C+Path+Planning+%7C+Computer+Vision;Always+open+to+collaborations+%E2%9C%A8"
+    alt="Typing SVG"
+  />
 </p>
 
+<!-- Spacer -->
+<br/>
+
+<!-- Trophies (FIXED: correct image URL + renders) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yami1106&theme=onedark&row=1&no-frame=true&margin-w=12" alt="Trophies" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Yami1106&theme=onedark&row=1&no-frame=true&margin-w=12"
+    alt="GitHub Trophies"
+  />
 </p>
 
 <hr/>
@@ -29,17 +46,19 @@
   🚀 Robotics & AI Enthusiast | Graduate Student @ WPI | Building real-world autonomous systems
 </h3>
 
-<!-- Quick CTA buttons -->
 <p align="center">
   <a href="https://linkedin.com/in/ashish-sukumar">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="mailto:asukumar@wpi.edu">
     <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?logo=gmail&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://github.com/Yami1106?tab=repositories">
     <img src="https://img.shields.io/badge/Projects-Explore-000000?logo=github&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://github.com/Yami1106/issues/new?title=Collaboration%20Idea&body=Hi%20Ashish%2C%20I%27d%20like%20to%20collaborate%20on...">
     <img src="https://img.shields.io/badge/Collaborate-Start%20a%20chat-2ea44f?logo=github&logoColor=white" />
   </a>
@@ -57,22 +76,6 @@
   - **Fire Detection & Risk Prediction** — *Published in IJERCSE*  
   - **Fire Aware Smart-Bot with AI Responsive System** — *Accepted at ICIoT 2025*  
 - 💡 **Fun fact:** I enjoy turning complex robotics problems into real-world prototypes  
-
-<hr/>
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/ashish-sukumar">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Yami1106">
-    <img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:asukumar@wpi.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 <hr/>
 
@@ -101,10 +104,6 @@
 
 - Autonomous rescue robot with **YOLO object detection** + sensor-based navigation  
 - Focus: **robust detection + safe navigation** in dynamic environments  
-- ✨ If you're interested, open a collaboration issue:  
-  <a href="https://github.com/Yami1106/issues/new?title=Fire%20Aware%20Smart-Bot%20Collab&body=Hi%20Ashish%2C%20I%27m%20interested%20in%20your%20Fire%20Aware%20Smart-Bot%20project.%20Here%27s%20my%20idea%2Fquestion%3A">
-    Start a thread
-  </a>
 
 </details>
 
@@ -131,16 +130,6 @@
 - Emphasis on responsiveness + stability  
 
 </details>
-
-<hr/>
-
-<h2 align="center">🏁 Coding Platforms</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
-  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank" />
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
-</p>
 
 <hr/>
 

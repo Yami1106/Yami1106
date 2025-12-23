@@ -1,15 +1,8 @@
-<!-- =======================
-     FIXED HEADER (no overlap)
-     - removed badge row that was crowding the typing line
-     - trophies uses the correct image URL and renders properly
-     - added spacing + line breaks so GitHub doesn't stack elements
-======================= -->
-
 <h1 align="center">
   Hi there, I'm <span style="color:#3498db">Ashish Sukumar</span> 🤖
 </h1>
 
-<!-- Small stats row (kept compact) -->
+<!-- Compact stats row -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yami1106&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   &nbsp;&nbsp;
@@ -18,10 +11,9 @@
   <img src="https://img.shields.io/github/stars/Yami1106?label=Total%20Stars&style=flat&color=0e75b6" alt="GitHub Stars" />
 </p>
 
-<!-- Spacer -->
 <br/>
 
-<!-- Typing line (standalone, centered) -->
+<!-- Typing line -->
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=880&lines=Building+intelligent+systems+that+blend+software+%2B+hardware;Robotics+%7C+SLAM+%7C+Path+Planning+%7C+Computer+Vision;Always+open+to+collaborations+%E2%9C%A8"
@@ -29,14 +21,43 @@
   />
 </p>
 
-<!-- Spacer -->
 <br/>
 
-<!-- Trophies (FIXED: correct image URL + renders) -->
+<!-- Replaced trophies with stable, better-looking highlights -->
+<hr/>
+
+<h2 align="center">✨ Highlights</h2>
+
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Yami1106&theme=onedark&row=1&no-frame=true&margin-w=12"
-    alt="GitHub Trophies"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yami1106&theme=github_dark"
+    alt="Profile Details"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yami1106&theme=github_dark"
+    alt="Repos per language"
+    height="160"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yami1106&theme=github_dark"
+    alt="Most commit language"
+    height="160"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yami1106&theme=github_dark"
+    alt="Stats"
+    height="160"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yami1106&theme=github_dark&utcOffset=-5"
+    alt="Productive time"
+    height="160"
   />
 </p>
 
@@ -133,6 +154,16 @@
 
 <hr/>
 
+<h2 align="center">📚 Coding Platforms</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
+  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank" />
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
+</p>
+
+<hr/>
+
 <h2 align="center">📈 Activity</h2>
 
 <p align="center">
@@ -157,3 +188,9 @@
 <p align="center">
   ✨ <i>"Robots aren’t just machines — they’re the future we’re building, one project at a time."</i> ✨
 </p>
+
+<!-- Optional: Add a snake animation later (requires GitHub Action)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yami1106/Yami1106/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+-->

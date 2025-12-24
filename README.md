@@ -161,6 +161,3 @@
 
 <hr/>
 
-<p align="center">
-✨ <i>"Intelligence is only useful when it can act in the real world."</i> ✨
-</p>

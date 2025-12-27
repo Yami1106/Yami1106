@@ -37,7 +37,7 @@
 <hr/>
 
 <h3 align="center">
-🚀 AI & Robotics Graduate Student @ WPI | Building intelligent, deployable systems
+🚀 Robotics Graduate Student @ WPI | Building intelligent, deployable systems
 </h3>
 
 <p align="center">

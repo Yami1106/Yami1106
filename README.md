@@ -161,8 +161,6 @@
 
 <hr/>
 
-<img src="https://raw.githubusercontent.com/Yami1106/Yami1106/output/snake.gif" alt="Snake animation" />
-
 
 
 

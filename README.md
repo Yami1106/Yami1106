@@ -161,5 +161,6 @@
 
 <hr/>
 
-![Snake animation](https://github.com/Yami1106/Yami1106/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Yami1106/Yami1106/output/github-contribution-grid-snake.svg)
+
 

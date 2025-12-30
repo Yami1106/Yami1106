@@ -161,7 +161,8 @@
 
 <hr/>
 
-<img src="https://raw.githubusercontent.com/Yami1106/Yami1106/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Yami1106/Yami1106/output/pacman.svg" alt="Pacman contribution graph" />
+
 
 
 

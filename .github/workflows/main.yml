@@ -1,7 +1,7 @@
-name: Generate snake animation
+name: Generate Pacman Contribution Graph
 
 on:
-  schedule: # execute every 12 hours
+  schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
@@ -20,16 +20,20 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate snake.svg
-        uses: Platane/snk/svg-only@v3
+      - name: Generate Pacman animation
+        uses: lowlighter/metrics@latest
         with:
-          github_user_name: Yami1106
-          outputs: dist/snake.svg?palette=github-dark
+          filename: pacman.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_pacman: yes
+          plugin_pacman_delay: 80
+          plugin_pacman_score: yes
 
-      - name: Push snake.svg to the output branch
+      - name: Push Pacman animation to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

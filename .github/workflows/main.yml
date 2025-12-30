@@ -1,4 +1,4 @@
-name: Generate Pacman Contribution Graph
+name: Generate Contribution Animation
 
 on:
   schedule:
@@ -17,20 +17,16 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate Pacman animation
+      - name: Generate isometric contribution calendar
         uses: lowlighter/metrics@latest
         with:
-          filename: pacman.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          filename: isocalendar.svg
           base: ""
-          plugin_pacman: yes
-          plugin_pacman_delay: 80
-          plugin_pacman_score: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
 
-      - name: Push Pacman animation to output branch
+      - name: Push animation to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

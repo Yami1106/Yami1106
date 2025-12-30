@@ -161,7 +161,8 @@
 
 <hr/>
 
-<img src="https://raw.githubusercontent.com/Yami1106/Yami1106/output/pacman.svg" alt="Pacman contribution graph" />
+<img src="https://raw.githubusercontent.com/Yami1106/Yami1106/output/isocalendar.svg" alt="Contribution calendar animation" />
+
 
 
 

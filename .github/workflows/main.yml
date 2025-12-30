@@ -24,8 +24,9 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Yami1106
-          outputs: dist/snake.svg?palette=github-dark
-
+          outputs: |
+            dist/snake.svg?palette=github-dark
+            dist/snake.gif?palette=github-dark
       - name: Push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:

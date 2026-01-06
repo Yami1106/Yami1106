@@ -155,10 +155,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <sub><i>Balancing strong algorithmic foundations with practical AI deployment in robotics</i></sub>
-</p>
-
 <hr/>
 
 

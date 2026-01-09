@@ -21,12 +21,13 @@
 <h2 align="center">✨ Highlights</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yami1106&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yami1106&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yami1106&theme=radical&hide_border=false" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yami1106&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yami1106&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yami1106&theme=radical&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yami1106&theme=react-dark&hide_border=false&area=true" alt="Contribution Graph" width="48%" />
 </p>
 
 <hr/>

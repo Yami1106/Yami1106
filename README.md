@@ -17,19 +17,37 @@
 </p>
 
 <hr/>
-## ✨ Highlights
+<h2 align="center">✨ Highlights</h2>
 
+<!-- Achievements / Trophies -->
+<h3 align="center">🏆 GitHub Achievements</h3>
 <p align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yami1106&show_icons=true&theme=dark&hide_border=false&v=1)
-
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Yami1106&theme=darkhub&row=1&column=6&margin-w=10&no-frame=true"
+    alt="GitHub Trophies"
+  />
 </p>
 
+<br/>
+
+<!-- Activity Graph -->
+<h3 align="center">📈 Contribution Activity</h3>
 <p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Yami1106&theme=github-dark&hide_border=true&area=true"
+    alt="Contribution Activity Graph"
+  />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yami1106&layout=compact&theme=dark&hide_border=false&v=1)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Yami1106&theme=dark&hide_border=false&v=1)
+<br/>
 
+<!-- Snake (requires GitHub Action to generate the file) -->
+<h3 align="center">🐍 Contribution Snake</h3>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Yami1106/Yami1106/output/github-contribution-grid-snake-dark.svg"
+    alt="Contribution Snake"
+  />
 </p>
 
 <hr/>

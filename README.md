@@ -17,26 +17,19 @@
 </p>
 
 <hr/>
-<h2 align="center">✨ Highlights</h2>
+## ✨ Highlights
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yami1106&amp;show_icons=true&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=58a6ff&amp;cache_seconds=21600"
-    alt="GitHub Stats"
-  />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yami1106&show_icons=true&theme=dark&hide_border=false&v=1)
+
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yami1106&amp;theme=dark&amp;hide_border=false&amp;layout=compact&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;cache_seconds=21600"
-    alt="Top Languages"
-    height="165"
-  />
-  <img
-    src="https://streak-stats.demolab.com/?user=Yami1106&amp;theme=dark&amp;hide_border=false&amp;background=0d1117"
-    alt="GitHub Streak"
-    height="165"
-  />
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yami1106&layout=compact&theme=dark&hide_border=false&v=1)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Yami1106&theme=dark&hide_border=false&v=1)
+
 </p>
 
 <hr/>

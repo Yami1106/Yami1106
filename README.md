@@ -21,25 +21,26 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Yami1106&amp;show_icons=true&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=58a6ff"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yami1106&amp;show_icons=true&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=58a6ff&amp;cache_seconds=21600"
     alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yami1106&amp;theme=dark&amp;hide_border=false&amp;layout=compact&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yami1106&amp;theme=dark&amp;hide_border=false&amp;layout=compact&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;cache_seconds=21600"
     alt="Top Languages"
     height="165"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Yami1106&amp;theme=dark&amp;hide_border=false&amp;background=0d1117&amp;stroke=58a6ff&amp;ring=58a6ff&amp;fire=58a6ff&amp;currStreakLabel=c9d1d9"
+    src="https://streak-stats.demolab.com/?user=Yami1106&amp;theme=dark&amp;hide_border=false&amp;background=0d1117"
     alt="GitHub Streak"
     height="165"
   />
 </p>
 
 <hr/>
+
 
 
 <h3 align="center">

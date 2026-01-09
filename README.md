@@ -18,16 +18,6 @@
 
 <hr/>
 <h2 align="center">✨ Highlights</h2>
-
-<!-- Achievements / Trophies -->
-<h3 align="center">🏆 GitHub Achievements</h3>
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Yami1106&theme=darkhub&row=1&column=6&margin-w=10&no-frame=true"
-    alt="GitHub Trophies"
-  />
-</p>
-
 <br/>
 
 <!-- Activity Graph -->
@@ -38,18 +28,6 @@
     alt="Contribution Activity Graph"
   />
 </p>
-
-<br/>
-
-<!-- Snake (requires GitHub Action to generate the file) -->
-<h3 align="center">🐍 Contribution Snake</h3>
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Yami1106/Yami1106/output/github-contribution-grid-snake-dark.svg"
-    alt="Contribution Snake"
-  />
-</p>
-
 <hr/>
 
 

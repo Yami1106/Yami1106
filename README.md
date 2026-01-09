@@ -31,11 +31,6 @@
 <hr/>
 
 
-
-<h3 align="center">
-🚀 Robotics Graduate Student @ WPI | Building intelligent, deployable systems
-</h3>
-
 <p align="center">
   <a href="https://linkedin.com/in/ashish-sukumar">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"/>
@@ -46,7 +41,11 @@
   <a href="https://github.com/Yami1106?tab=repositories">
     <img src="https://img.shields.io/badge/Projects-Explore-black?logo=github"/>
   </a>
+  <a href="https://yamiportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0ea5e9?logo=google-chrome&logoColor=white"/>
+  </a>
 </p>
+
 
 <hr/>
 

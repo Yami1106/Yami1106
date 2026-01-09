@@ -21,17 +21,12 @@
 <h2 align="center">✨ Highlights</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yami1106&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yami1106&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yami1106&theme=github_dark" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yami1106&theme=github_dark" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yami1106&theme=github_dark" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yami1106&theme=github_dark&utcOffset=-5" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yami1106&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yami1106&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
 </p>
 
 <hr/>
@@ -156,9 +151,3 @@
 </table>
 
 <hr/>
-
-
-
-
-
-

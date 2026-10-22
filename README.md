@@ -22,11 +22,23 @@
 
 <!-- Activity Graph -->
 <h3 align="center">📈 Contribution Activity</h3>
+<!-- Generated daily by .github/workflows/profile-art.yml -->
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Yami1106&theme=github-dark&hide_border=true&area=true"
-    alt="Contribution Activity Graph"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <img src="./profile-3d-contrib/profile-gitblue.svg" alt="3D Contribution Skyline" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg" />
+    <img src="./assets/snake-light.svg" alt="Contribution Snake" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Yami1106&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 <hr/>
 
